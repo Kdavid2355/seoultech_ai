@@ -12,7 +12,7 @@ Part 1 Accuracy: 0.8438  [[code](https://github.com/Kdavid2355/seoultech_ai/blob
 
 The CIFAR-10 dataset consists of 60000 32x32 color images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. Unlike the first assignment with FashionMNIST, CIFAR-10 contains RGB images, leading to a three-dimensional data structure. Therefore, using the same model from the FashionMNIST_PyTorch_Tutorial2 for CIFAR-10, as demonstrated in Part 1, results in a reduced accuracy of 0.5485. To improve performance on CIFAR-10, Part 2 employs a Convolutional Neural Network (CNN) structure, which enhances the model's capability.
 
-Part 1 Accuracy: 0.5485  [[code](https://github.com/Kdavid2355/seoultech_ai/blob/2112c3811646cccfc5d93fcf882e322b7e95a378/CIFAR_10_PyTorch_Tutorial1.ipynb)]  | Part 2 Accuracy: 0.7176    [[code](https://github.com/Kdavid2355/seoultech_ai/blob/2112c3811646cccfc5d93fcf882e322b7e95a378/CIFAR_10_PyTorch_Tutorial1.ipynb)]
+Part 1 Accuracy: 0.5485  [[code](https://github.com/Kdavid2355/seoultech_ai/blob/2112c3811646cccfc5d93fcf882e322b7e95a378/CIFAR_10_PyTorch_Tutorial1.ipynb)]  | Part 2 Accuracy: 0.7176    [[code](https://github.com/Kdavid2355/seoultech_ai/blob/2112c3811646cccfc5d93fcf882e322b7e95a378/CIFAR_10_PyTorch_Tutorial2.ipynb)]
 
 
 
