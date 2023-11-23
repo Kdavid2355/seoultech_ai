@@ -26,4 +26,4 @@ Part 1 Accuracy: 0.5485  [[code](https://github.com/Kdavid2355/seoultech_ai/blob
 
 This is a practice to detect cheaters using 1 million game data records from PUBG. Using a CSV file with 28 columns, an autoencoder model is created to identify the cheaters.
 
-code[]
+[code](https://github.com/Kdavid2355/seoultech_ai/blob/main/AISystem/Anomaly_Detection_on_BattleGround_Data_using_Autoencoder.ipynb)
