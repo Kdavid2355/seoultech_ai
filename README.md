@@ -1,6 +1,8 @@
 # seoultech_ai
 University class practice code
 
+## Machine Learning 2
+
 ### 1. Build Model with FashionMNIST Dataset Part1, 2
 
 The FashionMNIST dataset consists of 60,000 training and 10,000 test images, spread across 10 categories of fashion items, offering a more challenging alternative to the classic MNIST dataset.
@@ -15,4 +17,13 @@ The CIFAR-10 dataset consists of 60000 32x32 color images in 10 classes, with 60
 Part 1 Accuracy: 0.5485  [[code](https://github.com/Kdavid2355/seoultech_ai/blob/2112c3811646cccfc5d93fcf882e322b7e95a378/CIFAR_10_PyTorch_Tutorial1.ipynb)]  | Part 2 Accuracy: 0.7176    [[code](https://github.com/Kdavid2355/seoultech_ai/blob/e04e3d8149dbed77360ff2c650d4a1e450a6628b/CIFAR_10_PyTorch_Tutorial2.ipynb)]
 
 
+## AI System
 
+### 1. 
+
+
+### 2. Anomaly Detection on BattleGround Data by AutoEncoder
+
+This is a practice to detect cheaters using 1 million game data records from PUBG. Using a CSV file with 28 columns, an autoencoder model is created to identify the cheaters.
+
+code[]
