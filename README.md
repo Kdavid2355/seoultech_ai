@@ -21,8 +21,11 @@ Part 1 Accuracy: 0.5485  [[code](https://github.com/Kdavid2355/seoultech_ai/blob
 
 ## AI System
 
-### 1. 
+### 1. Classifying plant leaves and detecting diseases using AI
 
+This project classifies types of plant leaves and the presence of diseases in leaf images. It provided an opportunity to learn about the concepts of CNN (Convolutional Neural Networks) and Transfer Learning.
+
+[[code](https://github.com/Kdavid2355/seoultech_ai/blob/main/AISystem/Classifying_plant_leaves_and_detecting_diseases_using_AI.ipynb)]
 
 ### 2. Anomaly Detection on BattleGround Data by AutoEncoder
 
