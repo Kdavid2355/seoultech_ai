@@ -38,3 +38,9 @@ This is a practice to detect cheaters using 1 million game data records from PUB
 VQA, which stands for Vision Question Answering, is one of the most notable topics in recent times. Through this project, it was possible to gain basic knowledge of VQA and observe trends in the related field.
 
 [[code](https://github.com/Kdavid2355/seoultech_ai/blob/main/AISystem/VQA_baseline_final.ipynb)]
+
+### 4. Anime translator 
+
+This project involves using CycleGAN to transform images into animations. Through this exercise, I was able to learn the principles of CycleGAN and experiment with methods of image transformation. The data used was "Selfie2Anime" from Kaggle.
+
+[[code](https://github.com/Kdavid2355/seoultech_ai/blob/main/AISystem/anime_translation_final.ipynb)]
