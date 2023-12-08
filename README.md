@@ -32,3 +32,9 @@ This project classifies types of plant leaves and the presence of diseases in le
 This is a practice to detect cheaters using 1 million game data records from PUBG. Using a CSV file with 28 columns, an autoencoder model is created to identify the cheaters.
 
 [[code](https://github.com/Kdavid2355/seoultech_ai/blob/main/AISystem/Anomaly_Detection_on_BattleGround_Data_using_Autoencoder.ipynb)]
+
+### 3. VQA Baseline Practice 
+
+VQA, which stands for Vision Question Answering, is one of the most notable topics in recent times. Through this project, it was possible to gain basic knowledge of VQA and observe trends in the related field.
+
+[[code](https://github.com/Kdavid2355/seoultech_ai/blob/main/AISystem/VQA_baseline_final.ipynb)]
